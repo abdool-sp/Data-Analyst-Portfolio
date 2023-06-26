@@ -1,5 +1,6 @@
 # Exploring New York City's Tree Census Data
 
+
 ## Introduction
 
 This project focuses on the exploration of the New York City Tree Census dataset to gain insights into the city's urban tree population. By utilizing SQL for data analysis and Tableau for visualization, the project aims to uncover interesting patterns, distribution, and health conditions of the trees across the city's boroughs.
@@ -9,6 +10,8 @@ This project focuses on the exploration of the New York City Tree Census dataset
 - **Data Source:** The project utilizes the New York City Tree Census dataset found in the google's bigquery public data market, collected in 2015, which includes detailed information on tree species, health, status, and location across the city's five boroughs.
 - **Tools Used:** SQL was employed for data querying and analysis, while Tableau was utilized for data visualization and creating interactive maps.
 - **Objectives:** The primary objectives of this project are to analyze the distribution of tree species, examine health conditions, explore borough-wise variations, and visualize the findings on interactive maps. The secondary objective is to find ideal locations for certain occasions like taking wonderful pictures, suitable trees for kids to play, harmful areas to avoid etc
+
+-**[Tableau Viz](https://public.tableau.com/app/profile/abdulsalam.umar/viz/NYCTreeVisualization/Dashboard1?publish=yes)**
 
 ## Key Findings
 ### The Basics
